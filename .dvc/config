@@ -1,0 +1,4 @@
+[core]
+    remote = mi_almacenamiento_remoto
+['remote "mi_almacenamiento_remoto"']
+    url = https://github.com/ValentinaFarkas7/DVC-Project.git
